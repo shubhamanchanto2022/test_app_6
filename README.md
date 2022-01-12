@@ -2,6 +2,8 @@
 
  hi shubham First test for commiting the repository on git complete ruby and rails devloper by shubham hello
 
+ checking for direct update
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
