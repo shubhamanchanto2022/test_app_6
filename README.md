@@ -1,6 +1,6 @@
 # README
 
-complete ruby and rails devloper by shubham
+complete ruby and rails devloper by shubham hello
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
